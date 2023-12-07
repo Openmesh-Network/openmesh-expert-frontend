@@ -230,10 +230,10 @@ const Hero7 = () => {
                   isFaq6Open ? '' : 'hidden'
                 }`}
               >
-                By joining the expanding Openmesh network, you'll have access to
-                product updates and offerings through collaborations and
-                contributions. You'll be among the first to receive information
-                about new features and developments.
+                By joining the expanding Openmesh Expert Network, you'll have
+                access to product updates and offerings through collaborations
+                and contributions. You'll be among the first to receive
+                information about new features and developments.
               </div>
             </div>
           </div>
